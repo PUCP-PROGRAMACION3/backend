@@ -1,0 +1,10 @@
+com\example\negocio\GestionClientes.class
+com\example\Main.class
+com\example\persistencia\dao\ClienteDAO.class
+com\example\dominio\Producto.class
+com\example\persistencia\dao\ProductoDAO.class
+com\example\dominio\Cliente.class
+com\example\negocio\GestionProductos.class
+com\example\persistencia\dao\impl\ProductoDAOImpl.class
+com\example\persistencia\DBManager.class
+com\example\persistencia\dao\impl\ClienteDAOImpl.class
